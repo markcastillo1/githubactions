@@ -1,5 +1,3 @@
-#First runner
-
 on:
   push:
     branches:
